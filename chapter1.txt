@@ -1,0 +1,12 @@
+git init        	=       to initialise the git into the working directory.
+
+ls -a				=		to see all the files including hidden one.
+
+git status			=		to see status of files for untracked, to be commited.
+
+git add				=		to add the file to git for committing
+
+git commit -m		=		to commit and add message to the stage of commit.
+
+git log				=		to see commit details and message.
+
